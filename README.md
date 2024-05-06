@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neevesh Jain</h1>
 <h3 align="center">A passionate Data Science enthu from India</h3>
 
-- 🔭 I’m currently working on **Data Analysis project**
-
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 🤝 I’m looking for help with **Issues in issues tab**
